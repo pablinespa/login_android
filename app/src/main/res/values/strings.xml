@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginAccess</string>
+    <string name="text_name">LoginAccess</string>
+    <string name="text_save_data">Save Datas</string>
+    <string name="text_email">Email</string>
+    <string name="text_password">Password</string>
+</resources>
